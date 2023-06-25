@@ -1,0 +1,28 @@
+#canvas 
+{
+  border:5px solid rgb(255, 0, 0);
+  background-color: whitesmoke;
+  border-radius:20px;
+  height: 500;
+  width: 600;
+
+}
+center
+{
+ height: fill;
+ width: fill;   
+}
+
+#play-button
+{
+  text-align: center;
+  height: 70px;
+  width: 150px;
+  font-size: xx-large;
+
+}
+
+#h3-heading
+{
+    font-size: medium;
+}
